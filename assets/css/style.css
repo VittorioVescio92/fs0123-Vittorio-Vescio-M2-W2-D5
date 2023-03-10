@@ -28,17 +28,10 @@ nav{
   
   .cover:hover {
     transform: scale(1.1);
+    cursor: pointer;
   }
 
 .bi-pen {
     top: 165px;
     left: 25px;
-  }
-
-  .next{
-    margin-right: -175px;
-  }
-
-  .prev{
-    margin-left: -125px;
   }
