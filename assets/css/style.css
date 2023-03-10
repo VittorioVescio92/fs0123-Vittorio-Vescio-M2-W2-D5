@@ -13,3 +13,16 @@ img{
 nav{
     margin-left: -12px;
 }
+
+.first-row{
+    margin-inline: 25% 25%;
+}
+
+.second-row{
+    margin-inline: 25% 25%;
+}
+
+.bi-pen {
+    top: 165px;
+    left: 25px;
+  }
