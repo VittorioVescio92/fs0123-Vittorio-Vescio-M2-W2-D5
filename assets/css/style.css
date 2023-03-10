@@ -35,6 +35,10 @@ nav{
     left: 25px;
   }
 
-  #carousel{
-   width: 800px;
+  .next{
+    margin-right: -175px;
+  }
+
+  .prev{
+    margin-left: -125px;
   }
