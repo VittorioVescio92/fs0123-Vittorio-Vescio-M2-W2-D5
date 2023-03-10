@@ -26,3 +26,7 @@ nav{
     top: 165px;
     left: 25px;
   }
+
+  #carousel{
+   width: 800px;
+  }
